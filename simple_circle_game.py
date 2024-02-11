@@ -1,9 +1,8 @@
 """  
-Jogo no PyGame  
+Jogo no PyGame
 Implementar um programa em Python com a biblioteca pygame que desenhe 
 círculos mágicos na tela ao clicar com o mouse.
 """
-
 import  pygame as py
 size = (500, 400)
 screen = py.display.set_mode(size)
