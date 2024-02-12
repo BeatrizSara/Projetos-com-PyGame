@@ -1,5 +1,5 @@
 """  
-Jogo no PyGame
+Jogo no PyGame 02
 Implementar um programa em Python com a biblioteca pygame que desenhe 
 círculos mágicos na tela ao clicar com o mouse.
 """
