@@ -17,7 +17,7 @@ while True: # Inicia um loop infinito ate que o jogo seja encerrado.
                 screen, col, pos, 20, 5 #(..) Com raio de 20pxls, utilizando a cor especificada por "col"
             )                         # (..) Com uma espessura de linha de 5pxls
             py.display.update() # Atualiza a tela do jogo para mostrar o recém circulo desenhado
-            
+
 """ 
 Este código cria uma janela de exibição pygame e desenha um círculo ciano sempre que o usuário soltar o botão do mouse na janela.
 Este código cria uma janela de exibição pygame e desenha um círculo ciano sempre que o usuário soltar o botão do mouse na janela. 
